@@ -34,8 +34,8 @@ selected = false
 tags = []
 
 # Links (optional).
-url_pdf = "Article/journal/Hydrology_Ghandehari_abstract.pdf"
-url_slides = "Article/journal/Hydrology_Ghandehari_Poster.pdf"
+url_pdf = "Article/Conference/Hydrology_Ghandehari_abstract.pdf"
+url_slides = "Article/Conference/Hydrology_Ghandehari_Poster.pdf"
 url_video = ""
 url_code = ""
 

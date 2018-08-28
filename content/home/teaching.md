@@ -18,8 +18,14 @@ weight = 60
 2014-now:  Teaching Assistant, Department of Geography, University of Colorado Boulder
 
 - GIS Programming - GEOG4303/5303 (Spring 2018); Instructor: Prof. Stefan Leyk
+[Syllabus] (../pdf/syllabus_4303_5303.pdf)
+
 - Cartography, Information Design and Representation - GEOG3053 (2015, 2016, 2017, and Fall 2018), Instructors: Prof. Barbara Buttenfield, Dr. David Parr, Dr. Sara Kelly, Dr. Eric Lovell
+[Syllabus] (../pdf/g3053_ f16.pdf)
+
 - Introduction to GIS - GEOG4103/5103 (Fall 2014, Spring 2015), Instructors: Prof. Barbara Buttenfield, Dr. Chris Anderson
+[Syllabus] (../pdf/GEOG4103_f14.pdf)
+
 
 2012-2014:   Part-time Instructor, Geomatics Department, Daneshpajoohan University, Isfahan, Iran
 

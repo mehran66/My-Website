@@ -34,8 +34,8 @@ selected = false
 tags = []
 
 # Links (optional).
-url_pdf = "Article/journal/Ghandehari_Geomorphometry18_Published.pdf"
-url_slides = "Article/journal/Ghandehari_Geomorphometry18_powpoint.pdf"
+url_pdf = "Article/Conference/Ghandehari_Geomorphometry18_Published.pdf"
+url_slides = "Article/Conference/Ghandehari_Geomorphometry18_powpoint.pdf"
 url_video = ""
 url_code = "https://github.com/mehran66/Surface-Area-Computations"
 

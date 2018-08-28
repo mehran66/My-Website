@@ -42,7 +42,7 @@ selected = false
 tags = []
 
 # Links (optional).
-url_pdf = "Article/journal/GIScience16_Butenfield_etal.pdf"
+url_pdf = "Article/Conference/GIScience16_Butenfield_etal.pdf"
 url_preprint = ""
 url_code = "https://github.com/mehran66/Surface-Adjusted-Distance"
 url_dataset = ""

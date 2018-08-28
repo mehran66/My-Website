@@ -9,11 +9,11 @@ weight = 1
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "300px"
+height = "600px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -48,11 +48,66 @@ height = "300px"
 [[item]]
   title = ""
   content = ""
-  align = ""
+  align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/proj.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
 
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+  
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me4.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me5.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/me6.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++

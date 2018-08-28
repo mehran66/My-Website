@@ -47,7 +47,7 @@ filter_default = 0
 
 [[filter]]
   name = "Other"
-  tag = "Demo"
+  tag = "Other"
 
 +++
 

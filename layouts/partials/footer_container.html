@@ -1,0 +1,27 @@
+footer class=site-footer
+  div class=container
+    p class=powered-by
+
+      {{ with .Site.Copyright }}{{ .  markdownify}} &middot; {{ end }}
+
+      span class=cc C bn
+            !-- Key a SA, b BY, c CC Circle, d ND, n NC, m Sampling, s Share, r Remix, C CC Full Logo --
+      span
+      br
+      Content shareable a href=httpscreativecommons.orglicensesby-nc4.0 target=_blankCC-BY-NCa 
+      
+      brWebsite composed in a href=httprmarkdown.rstudio.com target=_blankR Markdowna via a href=httpsbookdown.orgyihuiblogdown target=_blankBlogdowna.
+      
+      Web theme is a href=httpsgithub.comgcushenhugo-academic target=_blankAcademica for a href=httpgohugo.io target=_blankHugoa. Free hosting via a href=httpswww.netlify.com target=_blankNetlifya.
+
+      span class=pull-right aria-hidden=true
+        a href=# id=back_to_top
+          span class=button_icon
+            i class=fa fa-chevron-up fa-2xi
+          span
+        a
+      span
+
+    p
+  div
+footer

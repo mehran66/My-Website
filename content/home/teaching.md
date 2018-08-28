@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-2014-now:  Teaching Assistant, Department of Geography, University of Colorado Boulder
+2014-now:  Teaching Assistant, Department of Geography, University of Colorado Boulder ([Faculty Course Questionnaire (FCQ)] (../pdf/FCQ.pdf))
 
 - GIS Programming - GEOG4303/5303 (Spring 2018); Instructor: Prof. Stefan Leyk
 [Syllabus] (../pdf/syllabus_4303_5303.pdf)
@@ -27,17 +27,21 @@ weight = 60
 [Syllabus] (../pdf/GEOG4103_f14.pdf)
 
 
-2012-2014:   Part-time Instructor, Geomatics Department, Daneshpajoohan University, Isfahan, Iran
+Aug 2013 - May 2014:   Part-time Instructor, Geomatics Department, Daneshpajoohan University, Isfahan, Iran
 
 - Introduction to GIS
 - GIS Applications
 - GIS Software
 - Theory of GPS
 
-Invited lecturer, University of Kerman, GIS and RS department. 
+2011-Feb:  Invited lecturer, University of Kerman, GIS and RS department. 
 
 - ArcMap 9.3 software (2-day workshop)
 
-Teaching Assistant, University of Tehran, School of Surveying. 
+Fall 2011: Teaching Assistant, University of Tehran, School of Surveying. 
 
-- Introduction to GIScience
+- Introduction to GIScience, Dr. Farid Karimipour
+
+Fall 2008: Teaching Assistant, Department of Surveying and Geomatics Engineering, University of Isfahan, Isfahan, Iran
+- Least Square and Error Adjustment, Dr. Jamal Asgari
+

@@ -17,16 +17,6 @@ height = "600px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = ""
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/boy.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -36,35 +26,17 @@ height = "600px"
   #cta_icon_pack = "fa"
   #cta_icon = "graduation-cap"
 
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/projection.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
   content = ""
-  align = "left"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/proj.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
+  align = ""# Choose `center`, `left`, or `right`.
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/me1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-  
+
+
 [[item]]
   title = ""
   content = ""
@@ -82,7 +54,7 @@ height = "600px"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/me3.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
+
 [[item]]
   title = ""
   content = ""
@@ -91,7 +63,7 @@ height = "600px"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/me4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
+
 [[item]]
   title = ""
   content = ""
@@ -100,8 +72,8 @@ height = "600px"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/me5.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-  
+
+
 [[item]]
   title = ""
   content = ""

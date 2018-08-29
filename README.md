@@ -1,6 +1,6 @@
 # My-Website
 My Personal Website based on the Hugo Academic theme
-the site is hosted at [http://mehran.maps.com/](http://mehran.maps.com/).
+the site is hosted at [https://mehran.netlify.com](https://mehran.netlify.com).
 
 Please refer to George Cushen's [Hugo Academic theme](https://github.com/gcushen/hugo-academic), which is what this site is heavily based upon.
 

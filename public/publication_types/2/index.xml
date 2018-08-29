@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Wellcome! Mehran&#39;s Website</title>
+    <link>https://mghan.maps.netlify.com/publication_types/2/</link>
+    <description>Recent content in 2 on Wellcome! Mehran&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://mghan.maps.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing the Accuracy of Interpolated Terrain Elevations Across Spatial Resolution</title>
+      <link>https://mghan.maps.netlify.com/publication/2018_ghandehari_etal_ijrs/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/publication/2018_ghandehari_etal_ijrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watershed delineation from the medial axis of river networks</title>
+      <link>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_cg/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watershed delineation from the medial axis of river networks</title>
+      <link>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_tcs/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_tcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

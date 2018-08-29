@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Wellcome! Mehran&#39;s Website</title>
+    <link>https://mghan.maps.netlify.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Wellcome! Mehran&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://mghan.maps.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#39;Slope-Adjusted Surface Area Computations in Digital Terrain</title>
+      <link>https://mghan.maps.netlify.com/talk/geomorphometry2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/talk/geomorphometry2018/</guid>
+      <description>Mehran Ghandehari, and Barbara P. Buttenfield (2018). &amp;lsquo;Slope-Adjusted Surface Area Computations in Digital Terrain&amp;rsquo;, Proceedings of Geomorphometry 2018 conference, the 5th International Conference of the ISG, Boulder, Colorado, August 13-17</description>
+    </item>
+    
+    <item>
+      <title>Cross-Scale Analysis of Sub-Pixel Variations in Digital Elevation Models</title>
+      <link>https://mghan.maps.netlify.com/talk/icc2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/talk/icc2017/</guid>
+      <description>Mehran Ghandehari, Barbara P. Buttenfield, and Carson J. Q. Farmer (2017). &amp;lsquo;Cross-Scale Analysis of Sub-Pixel Variations in Digital Elevation Models&amp;rsquo;, In: M. P. Peterson (Ed.), Advances in Cartography and Giscience 2017, Lecture Notes in Geoinformation and Cartography (LNGC), Springer, Cham. pp. 359-373.</description>
+    </item>
+    
+    <item>
+      <title>Density-Based Stream Network Extraction from Digital Elevation Models</title>
+      <link>https://mghan.maps.netlify.com/talk/hydrology2015/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/talk/hydrology2015/</guid>
+      <description>Mehran Ghandehari, and Barbara P. Buttenfield (2015). &amp;lsquo;Density-Based Stream Network Extraction from Digital Elevation Models&amp;rsquo;, Abstract, 10th Annual Hydrologic Sciences Research Symposium, Boulder, Colorado, April 2-3. First place award for Best Poster.</description>
+    </item>
+    
+    <item>
+      <title>Digital Elevation Model Approximation from Stream Networks: A Reversed Approach</title>
+      <link>https://mghan.maps.netlify.com/talk/smpr2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/talk/smpr2013/</guid>
+      <description>Mehran Ghandehari (2013). &amp;lsquo;Digital Elevation Model Approximation from Stream Networks: A Reversed Approach&amp;rsquo;, ISPRS Proceedings of the 2nd International Conference on the Sensors &amp;amp; Models in Photogrammetry and Remote Sensing Conference (SMPR 2013), Tehran, Iran, October 5-8, 2013, pp. 175-180.</description>
+    </item>
+    
+  </channel>
+</rss>

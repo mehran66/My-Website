@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Wellcome! Mehran&#39;s Website</title>
+    <link>https://mghan.maps.netlify.com/project/</link>
+    <description>Recent content in Projects on Wellcome! Mehran&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://mghan.maps.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surface Area Computations</title>
+      <link>https://mghan.maps.netlify.com/project/surfacearea/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/surfacearea/</guid>
+      <description>Area is an integral part of any spatial database and has a significant role in many geographic analyses and applications. Planar algorithms that are widely used to calculate area ignore the slope and curvature of the terrain and result in under-estimation, particularly as pixel size increases or in uneven terrain. Calculating surface area using a regular DEM can overcome this issue by considering localized variations on the terrain surface. This paper investigates the scale- and algorithm-dependence of surface area calculations.</description>
+    </item>
+    
+    <item>
+      <title>BSc. Projects (Geomatics)</title>
+      <link>https://mghan.maps.netlify.com/project/bsc.-projects_geomatics/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/bsc.-projects_geomatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blunder detection in DEMs</title>
+      <link>https://mghan.maps.netlify.com/project/blunder-detection-in-dems/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/blunder-detection-in-dems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equal Area Map Projection</title>
+      <link>https://mghan.maps.netlify.com/project/equal-area-map-projection/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/equal-area-map-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrologic Flow Accumulation Modeling Using Surface Area</title>
+      <link>https://mghan.maps.netlify.com/project/hydrologic-flow-accumulation-modeling-using-surface-area/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/hydrologic-flow-accumulation-modeling-using-surface-area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis</title>
+      <link>https://mghan.maps.netlify.com/project/msc-thesis/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/msc-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metahuristic Optimization Algorithms</title>
+      <link>https://mghan.maps.netlify.com/project/metahuristic-optimization-algorithms/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/metahuristic-optimization-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream Extraction from DEM</title>
+      <link>https://mghan.maps.netlify.com/project/stream-extraction-from-dem/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/stream-extraction-from-dem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-pixel Variation of Elevation in DEMs</title>
+      <link>https://mghan.maps.netlify.com/project/sub-pixel-variations-in-dems/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/sub-pixel-variations-in-dems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface Adjusted Distance</title>
+      <link>https://mghan.maps.netlify.com/project/surface-adjusted-distance/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/surface-adjusted-distance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

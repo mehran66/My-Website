@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Wellcome! Mehran&#39;s Website</title>
+    <link>https://mghan.maps.netlify.com/tags/other/</link>
+    <description>Recent content in Other on Wellcome! Mehran&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://mghan.maps.netlify.com/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equal Area Map Projection</title>
+      <link>https://mghan.maps.netlify.com/project/equal-area-map-projection/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/project/equal-area-map-projection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

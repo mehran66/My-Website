@@ -9,7 +9,7 @@ title = "Surface Adjusted Distance"
 summary = "Cross-scale Analysis of Surface Adjusted Distance in Digital Terrian"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "distance.jpg.jpg"
+image_preview = "distance.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

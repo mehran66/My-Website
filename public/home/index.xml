@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Wellcome! Mehran&#39;s Website</title>
+    <link>https://mghan.maps.netlify.com/home/</link>
+    <description>Recent content in Homes on Wellcome! Mehran&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://mghan.maps.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mghan.maps.netlify.com/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://mghan.maps.netlify.com/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mghan.maps.netlify.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/about/</guid>
+      <description>Biography I have devoted my studies and research to gain a deep knowledge in GIScience. My current studies in the Geography Department and my background obtained in Civil Surveying helped me in developing and implementing concepts and applications that combine modern science with classical engineering concepts in the GIS environment. I am interested in developing spatial data structures and geometric algorithms, the analyzing and mining of complicated spatial data, and linking geospatial mathematical concepts to real-world issues.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://mghan.maps.netlify.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://mghan.maps.netlify.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://mghan.maps.netlify.com/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks &amp; Conference Presentations</title>
+      <link>https://mghan.maps.netlify.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://mghan.maps.netlify.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mghan.maps.netlify.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mghan.maps.netlify.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/teaching/</guid>
+      <description>2014-now: Teaching Assistant, Department of Geography, University of Colorado Boulder (Faculty Course Questionnaire (FCQ))
+ GIS Programming - GEOG4303/5303 (Spring 2018); Instructor: Prof. Stefan Leyk Syllabus
+ Cartography, Information Design and Representation - GEOG3053 (2015, 2016, 2017, and Fall 2018), Instructors: Prof. Barbara Buttenfield, Dr. David Parr, Dr. Sara Kelly, Dr. Eric Lovell Syllabus
+ Introduction to GIS - GEOG4103/5103 (Fall 2014, Spring 2015), Instructors: Prof. Barbara Buttenfield, Dr. Chris Anderson Syllabus</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://mghan.maps.netlify.com/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://mghan.maps.netlify.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://mghan.maps.netlify.com/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mghan.maps.netlify.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mghan.maps.netlify.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

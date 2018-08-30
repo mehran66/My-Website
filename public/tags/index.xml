@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wellcome! Mehran&#39;s Website</title>
-    <link>https://mghan.maps.netlify.com/tags/</link>
+    <link>https://mehran.netlify.com/tags/</link>
     <description>Recent content in Tags on Wellcome! Mehran&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://mghan.maps.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehran.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>https://mghan.maps.netlify.com/tags/academic/</link>
+      <link>https://mehran.netlify.com/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/tags/academic/</guid>
+      <guid>https://mehran.netlify.com/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BSc</title>
-      <link>https://mghan.maps.netlify.com/tags/bsc/</link>
+      <link>https://mehran.netlify.com/tags/bsc/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/tags/bsc/</guid>
+      <guid>https://mehran.netlify.com/tags/bsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc</title>
-      <link>https://mghan.maps.netlify.com/tags/msc/</link>
+      <link>https://mehran.netlify.com/tags/msc/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/tags/msc/</guid>
+      <guid>https://mehran.netlify.com/tags/msc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://mghan.maps.netlify.com/tags/other/</link>
+      <link>https://mehran.netlify.com/tags/other/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/tags/other/</guid>
+      <guid>https://mehran.netlify.com/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD</title>
-      <link>https://mghan.maps.netlify.com/tags/phd/</link>
+      <link>https://mehran.netlify.com/tags/phd/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/tags/phd/</guid>
+      <guid>https://mehran.netlify.com/tags/phd/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Wellcome! Mehran&#39;s Website</title>
-    <link>https://mghan.maps.netlify.com/publication_types/</link>
+    <link>https://mehran.netlify.com/publication_types/</link>
     <description>Recent content in Publication_types on Wellcome! Mehran&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://mghan.maps.netlify.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehran.netlify.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>https://mghan.maps.netlify.com/publication_types/1/</link>
+      <link>https://mehran.netlify.com/publication_types/1/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication_types/1/</guid>
+      <guid>https://mehran.netlify.com/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://mghan.maps.netlify.com/publication_types/2/</link>
+      <link>https://mehran.netlify.com/publication_types/2/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication_types/2/</guid>
+      <guid>https://mehran.netlify.com/publication_types/2/</guid>
       <description></description>
     </item>
     

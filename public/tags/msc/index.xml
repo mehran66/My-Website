@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSc on Wellcome! Mehran&#39;s Website</title>
-    <link>https://mghan.maps.netlify.com/tags/msc/</link>
+    <link>https://mehran.netlify.com/tags/msc/</link>
     <description>Recent content in MSc on Wellcome! Mehran&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
     <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://mghan.maps.netlify.com/tags/msc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehran.netlify.com/tags/msc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blunder detection in DEMs</title>
-      <link>https://mghan.maps.netlify.com/project/blunder-detection-in-dems/</link>
+      <link>https://mehran.netlify.com/project/blunder-detection-in-dems/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/project/blunder-detection-in-dems/</guid>
+      <guid>https://mehran.netlify.com/project/blunder-detection-in-dems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc Thesis</title>
-      <link>https://mghan.maps.netlify.com/project/msc-thesis/</link>
+      <link>https://mehran.netlify.com/project/msc-thesis/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/project/msc-thesis/</guid>
+      <guid>https://mehran.netlify.com/project/msc-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metahuristic Optimization Algorithms</title>
-      <link>https://mghan.maps.netlify.com/project/metahuristic-optimization-algorithms/</link>
+      <link>https://mehran.netlify.com/project/metahuristic-optimization-algorithms/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/project/metahuristic-optimization-algorithms/</guid>
+      <guid>https://mehran.netlify.com/project/metahuristic-optimization-algorithms/</guid>
       <description></description>
     </item>
     

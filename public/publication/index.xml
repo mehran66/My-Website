@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Wellcome! Mehran&#39;s Website</title>
-    <link>https://mghan.maps.netlify.com/publication/</link>
+    <link>https://mehran.netlify.com/publication/</link>
     <description>Recent content in Publications on Wellcome! Mehran&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Mehran Ghandehari 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://mghan.maps.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehran.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comparing the Accuracy of Interpolated Terrain Elevations Across Spatial Resolution</title>
-      <link>https://mghan.maps.netlify.com/publication/2018_ghandehari_etal_ijrs/</link>
+      <link>https://mehran.netlify.com/publication/2018_ghandehari_etal_ijrs/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication/2018_ghandehari_etal_ijrs/</guid>
+      <guid>https://mehran.netlify.com/publication/2018_ghandehari_etal_ijrs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Distance “As the Horse Runs”: Cross-Scale Comparison of Terrain-Based Metrics</title>
-      <link>https://mghan.maps.netlify.com/publication/2016_buttenfield_etal_giscience16/</link>
+      <link>https://mehran.netlify.com/publication/2016_buttenfield_etal_giscience16/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication/2016_buttenfield_etal_giscience16/</guid>
+      <guid>https://mehran.netlify.com/publication/2016_buttenfield_etal_giscience16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watershed delineation from the medial axis of river networks</title>
-      <link>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_cg/</link>
+      <link>https://mehran.netlify.com/publication/2013_karimipour_etal_cg/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_cg/</guid>
+      <guid>https://mehran.netlify.com/publication/2013_karimipour_etal_cg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watershed delineation from the medial axis of river networks</title>
-      <link>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_tcs/</link>
+      <link>https://mehran.netlify.com/publication/2013_karimipour_etal_tcs/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
       
-      <guid>https://mghan.maps.netlify.com/publication/2013_karimipour_etal_tcs/</guid>
+      <guid>https://mehran.netlify.com/publication/2013_karimipour_etal_tcs/</guid>
       <description></description>
     </item>
     

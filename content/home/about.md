@@ -11,18 +11,18 @@ weight = 5
 [interests]
   interests = [
     "GIScience",
-    "Terrain Modeling",
     "Spatial Data Science",
-    "GIS Programming",
-    "Cartographic production",
-    "Geomatics"
-  ]
+    "Open Source Software",
+    "Computer Vision and Deep Learning",
+    "Terrain Modeling"
+  ] 
+
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Geography/GIScience"
   institution = "University of Colorado Boulder" 
-  year = "Dec 2018 (expected)"
+  year = "Dec 2018"
 
 [[education.courses]]
   course = "MSc in Geospatial Information Science"
